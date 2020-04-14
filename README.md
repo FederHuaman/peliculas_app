@@ -17,4 +17,4 @@ Uso de:
 <img src="https://raw.githubusercontent.com/FederHuaman/peliculas_app/master/Screenshot_1586824332.png" width="500" />
 
 ## Página de Detalle
-<img src="https://raw.githubusercontent.com/FederHuaman/peliculas_app/master/Screenshot_1586824372.png" width="500" />
+<img src="https://raw.githubusercontent.com/FederHuaman/peliculas_app/master/Screenshot_1586824372.png" width="500"  />
