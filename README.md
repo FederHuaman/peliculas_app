@@ -1,4 +1,4 @@
-# peliculas
+# Películas
 
 Aplicacion de peliculas en estreno y peliculas populares
 
